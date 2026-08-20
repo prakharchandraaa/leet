@@ -1,10 +1,10 @@
 class Solution {
     bool ispossible(vector<int>&piles , int mid, int h)
     {
-        int hour = 0;
+       int hour = 0;
        for(int i=0; i<piles.size(); i++)
         {
-            if(piles[i] <= mid)
+            /*if(piles[i] <= mid)
             {
                 hour++;
             }
@@ -15,7 +15,8 @@ class Solution {
             else if(piles[i] % mid != 0)
             {
                 hour += (piles[i]/mid)+1;
-            }
+            }*/
+            hour += (piles[i]+mid-1)/mid;
             if(hour > h)
             {
                 return false;
