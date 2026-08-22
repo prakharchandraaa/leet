@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakharchandraaa/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/prakharchandraaa/leet/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/prakharchandraaa/leet/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prakharchandraaa/leet/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/prakharchandraaa/leet/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/prakharchandraaa/leet/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/prakharchandraaa/leet/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharchandraaa/leet/tree/master/1552-magnetic-force-between-two-balls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/prakharchandraaa/leet/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
