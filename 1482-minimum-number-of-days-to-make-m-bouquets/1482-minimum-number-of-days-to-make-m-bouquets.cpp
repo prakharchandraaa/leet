@@ -1,5 +1,5 @@
 class Solution {
-    bool isPossible(vector<int>&bloomDay, long long m, long long k, int mid)
+    bool isPossible(vector<int>&bloomDay, long long m, long long k, long long mid)
     {   
         int count =0, noofbouquet=0;
        for(int i = 0; i<bloomDay.size(); i++)
