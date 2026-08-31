@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prakharchandraaa/leet/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/prakharchandraaa/leet/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/prakharchandraaa/leet/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/prakharchandraaa/leet/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/prakharchandraaa/leet/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/prakharchandraaa/leet/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prakharchandraaa/leet/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/prakharchandraaa/leet/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prakharchandraaa/leet/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
