@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prakharchandraaa/leet/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/prakharchandraaa/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prakharchandraaa/leet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/prakharchandraaa/leet/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prakharchandraaa/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prakharchandraaa/leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prakharchandraaa/leet/tree/master/0231-power-of-two) |
 ## Recursion
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prakharchandraaa/leet/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/prakharchandraaa/leet/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
