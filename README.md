@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prakharchandraaa/leet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/prakharchandraaa/leet/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/prakharchandraaa/leet/tree/master/0680-valid-palindrome-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prakharchandraaa/leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/prakharchandraaa/leet/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/prakharchandraaa/leet/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/prakharchandraaa/leet/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prakharchandraaa/leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/prakharchandraaa/leet/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prakharchandraaa/leet/tree/master/0022-generate-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prakharchandraaa/leet/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prakharchandraaa/leet/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
