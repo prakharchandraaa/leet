@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prakharchandraaa/leet/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/prakharchandraaa/leet/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/prakharchandraaa/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prakharchandraaa/leet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prakharchandraaa/leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakharchandraaa/leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/prakharchandraaa/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prakharchandraaa/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prakharchandraaa/leet/tree/master/0242-valid-anagram) |
 ## String
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakharchandraaa/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/prakharchandraaa/leet/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/prakharchandraaa/leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/prakharchandraaa/leet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/prakharchandraaa/leet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prakharchandraaa/leet/tree/master/0242-valid-anagram) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prakharchandraaa/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prakharchandraaa/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prakharchandraaa/leet/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0977-squares-of-a-sorted-array) |
