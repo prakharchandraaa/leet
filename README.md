@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prakharchandraaa/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prakharchandraaa/leet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/prakharchandraaa/leet/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prakharchandraaa/leet/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/prakharchandraaa/leet/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/prakharchandraaa/leet/tree/master/0875-koko-eating-bananas) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prakharchandraaa/leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakharchandraaa/leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/prakharchandraaa/leet/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prakharchandraaa/leet/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharchandraaa/leet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
