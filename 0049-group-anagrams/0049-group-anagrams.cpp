@@ -17,3 +17,15 @@ public:
         return result;
     }
 };
+
+/* UNORDERED MAP
+   KEY :     VALUE
+   ___________________
+   aet : [eat,tea,ate]
+   ant : [tan,nat]
+   abt : [bat] 
+
+   RESULT
+   pushed values
+   [["eat","tea","ate"],["tan","nat"],["bat"]]
+   */
