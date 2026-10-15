@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prakharchandraaa/leet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prakharchandraaa/leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prakharchandraaa/leet/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prakharchandraaa/leet/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/prakharchandraaa/leet/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/prakharchandraaa/leet/tree/master/0680-valid-palindrome-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/prakharchandraaa/leet/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/prakharchandraaa/leet/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -143,10 +145,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prakharchandraaa/leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prakharchandraaa/leet/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prakharchandraaa/leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prakharchandraaa/leet/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
