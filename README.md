@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prakharchandraaa/leet/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prakharchandraaa/leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/prakharchandraaa/leet/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/prakharchandraaa/leet/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,4 +162,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/prakharchandraaa/leet/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/prakharchandraaa/leet/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
