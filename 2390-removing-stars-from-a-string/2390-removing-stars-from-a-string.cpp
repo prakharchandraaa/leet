@@ -7,7 +7,6 @@ public:
         {   
             if(i=='*')
             {
-              //  stk.pop();
                 stk.pop();
             }
             else
