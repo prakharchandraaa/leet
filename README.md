@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prakharchandraaa/leet/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prakharchandraaa/leet/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/prakharchandraaa/leet/tree/master/0410-split-array-largest-sum) |
+| [0739-daily-temperatures](https://github.com/prakharchandraaa/leet/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/prakharchandraaa/leet/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prakharchandraaa/leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -165,9 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prakharchandraaa/leet/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/prakharchandraaa/leet/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/prakharchandraaa/leet/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/prakharchandraaa/leet/tree/master/2390-removing-stars-from-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/prakharchandraaa/leet/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
