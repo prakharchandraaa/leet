@@ -1,7 +1,7 @@
 class MinStack {
-stack<int>stk;
-stack<int>minStk;
 public:
+    stack<int>stk;
+    stack<int>minStk;
     MinStack() {
     }
     
