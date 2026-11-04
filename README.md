@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prakharchandraaa/leet/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/prakharchandraaa/leet/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/prakharchandraaa/leet/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/prakharchandraaa/leet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prakharchandraaa/leet/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/prakharchandraaa/leet/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/prakharchandraaa/leet/tree/master/0977-squares-of-a-sorted-array) |
@@ -168,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prakharchandraaa/leet/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/prakharchandraaa/leet/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/prakharchandraaa/leet/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/prakharchandraaa/leet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prakharchandraaa/leet/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/prakharchandraaa/leet/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/prakharchandraaa/leet/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/prakharchandraaa/leet/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
