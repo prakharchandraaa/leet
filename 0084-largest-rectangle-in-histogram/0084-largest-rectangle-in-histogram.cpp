@@ -12,12 +12,20 @@ public:
             }
             else
             {
-               current_height = heights[i];
+                current_height = heights[i];
             }
+            int height, width;
             while (!st.empty() && heights[st.top()] > current_height) {
-                int height = heights[st.top()];
+                height = heights[st.top()];
                 st.pop();
-                int width = st.empty() ? i : (i - st.top() - 1);
+                if(st.empty())
+                {
+                    width = i;
+                }
+                else
+                {
+                    width = i - st.top() -1 ;
+                }
                 max_area = max(max_area, height * width);
             }
             st.push(i);
